@@ -37,35 +37,35 @@ The document will comprehensively detail the steps and procedures undertaken to 
 
 # Packages
 
-import pyodbc
-import sqlalchemy as sa
-import pandas as pd
-import numpy as np
-import zipfile
-import matplotlib.pyplot as plt
-import seaborn as sns
-import calendar
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from statsmodels.tsa.seasonal import seasonal_decompose
-from statsmodels.tsa.stattools import adfuller
-from sklearn.model_selection import train_test_split
-from dotenv import dotenv_values
-from scipy import stats
-from lightgbm import LGBMRegressor
-from statsmodels.tsa.arima.model import ARIMA
-from statsmodels.tsa.statespace.sarimax import SARIMAX
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
-from xgboost import XGBRegressor
-from pmdarima.arima import auto_arima
-from sklearn.model_selection import GridSearchCV
-from sklearn.linear_model import LinearRegression
-from sklearn.svm import SVR
-from catboost import CatBoostRegressor
-from sklearn.metrics import mean_absolute_error, mean_squared_error, mean_squared_log_error
-import warnings
-warnings.filterwarnings("ignore")
+* import pyodbc
+* import sqlalchemy as sa
+* import pandas as pd
+* import numpy as np
+* import zipfile
+* import matplotlib.pyplot as plt
+* import seaborn as sns
+* import calendar
+* from sklearn.preprocessing import StandardScaler, OneHotEncoder
+* from sklearn.compose import ColumnTransformer
+* from sklearn.pipeline import Pipeline
+* from statsmodels.tsa.seasonal import seasonal_decompose
+* from statsmodels.tsa.stattools import adfuller
+* from sklearn.model_selection import train_test_split
+* from dotenv import dotenv_values
+* from scipy import stats
+* from lightgbm import LGBMRegressor
+* from statsmodels.tsa.arima.model import ARIMA
+* from statsmodels.tsa.statespace.sarimax import SARIMAX
+* from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
+* from xgboost import XGBRegressor
+* from pmdarima.arima import auto_arima
+* from sklearn.model_selection import GridSearchCV
+* from sklearn.linear_model import LinearRegression
+* from sklearn.svm import SVR
+* from catboost import CatBoostRegressor
+* from sklearn.metrics import mean_absolute_error, mean_squared_error, mean_squared_log_error
+* import warnings
+* warnings.filterwarnings("ignore")
 
 # Conclusion
 
