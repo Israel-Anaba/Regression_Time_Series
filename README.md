@@ -2,7 +2,7 @@
 
 # Context
 
-The task at hand involves time series forecasting, where we will be working on predicting store sales using data from Corporation Favorita, a major grocery retailer based in Ecuador. The goal in this project is to develop a model that can provide more precise predictions for the unit sales of various items sold across different Favorita stores.
+The task at hand involves time series forecasting, where we will be working on predicting store sales using data from Corporation Favorita, a major grocery retailer based in Ecuador. The goal in this project is to develop a model that can provide more precise predictions for the unit sales of various items sold across different Favorita stores. 
 
 # Procedure
 
@@ -19,7 +19,7 @@ The document will comprehensively detail the steps and procedures undertaken to 
 7. **Power BI Deployment**: The analysis and visualizations were deployed in Power BI, enabling interactive exploration and sharing with stakeholders. The insights obtained from the analysis were presented effectively using Power BI's dashboarding and reporting features.
 8. **Train and Evaluate Four Models**: In this project, four machine learning models, namely ARIMA, SARIMA, XGBoost Regressor, and CatBoost Regressor, are trained and evaluated using both the imbalanced and balanced datasets. The evaluation metrics used for assessing model performance include Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Root Mean Log Squared Error (RMLSE).
 9. **Evaluate Chosen Model**:  Advanced Model Improvement: For selected models, GridSearchCV is employed to conduct hyperparameter tuning. The best-tuned models and their optimized parameters are obtained through this process, and predictions are subsequently made using these refined models.
-11. **Future Predictions**: The trained and validated time series model can be utilized to make predictions on new, unseen data. This enables businesses to forecast various time-dependent outcomes and take proactive measures accordingly. The model can be deployed in production to continuously monitor and predict future events or trends.
+10. **Future Predictions**: The trained and validated time series model can be utilized to make predictions on new, unseen data. This enables businesses to forecast various time-dependent outcomes and take proactive measures accordingly. The model can be deployed in production to continuously monitor and predict future events or trends.
 
 # Installation
 
@@ -69,12 +69,14 @@ The document will comprehensively detail the steps and procedures undertaken to 
 
 # Authors and Aknowledgement
 
-| Project LP3 | Contribitors        | Article | Github Profile |
-| ----------- | ------------------- | ------- | -------------- |
-| 1.          | Israel Anaba Ayamga |         | Israel-Anaba   |
-| 2.          | Isaac Sarpong       |         | IsaacSarpong   |
-| 3.          | Peter Mutwiri       |         | PETERMUTWIRI   |
-| 4.          | Emmanuel Morkeh     |         | Ekmorkeh       |
+Below is a table of the initial contributors of the project with their respective Github ID and Articles written to document their individual perspective of the project.
+
+| Project LP3 | Contribitors        | Article Link | Github Profile |
+| ----------- | ------------------- | ------------ | -------------- |
+| 1.          | Israel Anaba Ayamga |              | Israel-Anaba   |
+| 2.          | Isaac Sarpong       |              | IsaacSarpong   |
+| 3.          | Peter Mutwiri       |              | PETERMUTWIRI   |
+| 4.          | Emmanuel Morkeh     |              | Ekmorkeh       |
 
 # Conclusion
 
