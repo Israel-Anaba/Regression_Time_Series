@@ -2,7 +2,7 @@
 
 # Context
 
-The task at hand involves time series forecasting, where we will be working on predicting store sales using data from Corporation Favorita, a major grocery retailer based in Ecuador. The goal in this project is to develop a model that can provide more precise predictions for the unit sales of various items sold across different Favorita stores. 
+The task at hand involves time series forecasting, where we will be working on predicting store sales using data from Corporation Favorita, a major grocery retailer based in Ecuador. The goal in this project is to develop a model that can provide more precise predictions for the unit sales of various items sold across different Favorita stores.
 
 # Procedure
 
@@ -71,12 +71,12 @@ The document will comprehensively detail the steps and procedures undertaken to 
 
 Below is a table of the initial contributors of the project with their respective Github ID and Articles written to document their individual perspective of the project.
 
-| Project LP3 | Contribitors        | Article Link | Github Profile |
-| ----------- | ------------------- | ------------ | -------------- |
-| 1.          | Israel Anaba Ayamga |              | Israel-Anaba   |
-| 2.          | Isaac Sarpong       |              | IsaacSarpong   |
-| 3.          | Peter Mutwiri       |              | PETERMUTWIRI   |
-| 4.          | Emmanuel Morkeh     |              | Ekmorkeh       |
+| Project LP3 | Contribitors        | Article Link                                                                                                                                                                                                                               | Github Profile |
+| ----------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| 1.          | Israel Anaba Ayamga | [Revolutionizing Retail: Unleashing the Power of Time Series Forecasting to Optimize Store Sales](https://israelanaba.medium.com/revolutionizing-retail-unleashing-the-power-of-time-series-forecasting-to-optimize-store-sales-91104347f644) | Israel-Anaba   |
+| 2.          | Isaac Sarpong       |                                                                                                                                                                                                                                            | IsaacSarpong   |
+| 3.          | Peter Mutwiri       |                                                                                                                                                                                                                                            | PETERMUTWIRI   |
+| 4.          | Emmanuel Morkeh     |                                                                                                                                                                                                                                            | Ekmorkeh       |
 
 # Conclusion
 
