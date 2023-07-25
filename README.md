@@ -67,7 +67,7 @@ The document will comprehensively detail the steps and procedures undertaken to 
 * [ ] import warnings
 * [ ] warnings.filterwarnings("ignore")
 
-# Authors and Aknowledgement
+# Authors and Acknowledgement
 
 Below is a table of the initial contributors of the project with their respective Github ID and Articles written to document their individual perspective of the project.
 
